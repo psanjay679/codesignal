@@ -1,0 +1,882 @@
+
+client 10.128.20.100 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.110 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.114 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.115 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.125 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.128 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.14 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.157 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.158 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.19 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.20 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.24 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.26 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.27 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.31 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.33 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.37 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.41 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.43 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.52 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.53 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.59 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.62 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.65 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.68 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.69 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.70 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.72 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.74 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.81 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.20.85 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.101 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.102 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.103 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.104 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.109 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.111 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.112 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.113 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.114 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.115 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.119 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.121 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.122 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.129 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.134 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.139 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.141 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.149 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.211 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.223 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.33 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.34 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.32.43 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.140 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.142 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.144 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.146 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.148 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.150 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.152 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.154 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.156 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.157 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.158 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.160 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.162 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.164 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.166 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.172 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.174 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.182 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.184 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.192 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.194 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.196 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.218 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.230 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.231 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.62 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.64 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.74 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.76 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.78 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.80 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.82 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.33.84 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.36.89 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.37.118 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.38.44 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.38.85 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.201 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.223 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.228 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.229 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.239 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.242 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.243 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.43.248 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.201 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.202 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.205 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.206 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.208 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.209 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.241 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.44.243 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.151 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.152 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.153 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.154 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.155 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.156 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.157 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.45.96 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.100 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.102 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.104 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.106 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.112 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.114 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.116 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.118 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.120 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.124 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.126 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.128 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.130 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.140 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.150 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.57 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.66 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.68 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.70 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.72 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.74 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.76 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.78 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.82 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.84 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.86 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.88 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.90 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.92 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.94 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.96 {
+secret = testing123
+nas_type = other
+}
+
+
+client 10.128.59.98 {
+secret = testing123
+nas_type = other
+}
+
