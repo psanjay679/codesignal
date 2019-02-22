@@ -30,7 +30,6 @@ bool isIPv4Address(std::string inputString)
             }
         }
 
-
         if (number.length() == 0)
         {
             return false;
