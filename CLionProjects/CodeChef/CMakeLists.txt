@@ -3,4 +3,4 @@ project(CodeChef)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CodeChef main.cpp reverse_in_parenthesis.cpp reverse_in_parenthesis.h)
+add_executable(CodeChef main.cpp reverse_in_parenthesis.cpp reverse_in_parenthesis.h codesignal.h codesignal.cpp)
